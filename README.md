@@ -31,4 +31,6 @@ Link: https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-designer-
 These pictures show the results of the tutorial "Deploy a machine learning model with the designer" by Microsoft AzureML. deploy_that_model_canvas.png
 shows the designer after deployment, and deploy_that_model_results shows the raw output of the WebServiceInput0 test.
 
+Link: https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-designer-automobile-price-deploy#prerequisites
+
 ## Section 3
