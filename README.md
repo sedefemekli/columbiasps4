@@ -34,3 +34,6 @@ shows the designer after deployment, and deploy_that_model_results shows the raw
 Link: https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-designer-automobile-price-deploy#prerequisites
 
 ## Section 3
+There isn't anything to present in this section. In this section, I completed the "Create machine learning models" learning path by Microsoft.
+
+Link: https://docs.microsoft.com/en-us/learn/paths/create-machine-learn-models/
